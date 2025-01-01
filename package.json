@@ -74,6 +74,6 @@
   },
   "dependencies": {
     "pidtree": "^0.6.0",
-    "wait-on": "^7.0.1"
+    "wait-on": "^8.0.0"
   }
 }
